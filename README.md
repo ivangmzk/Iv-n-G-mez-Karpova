@@ -4,7 +4,7 @@
 
 ### ¿Empresa detrás de GitHub?
 Hoy en día **GitHub** pertenece a Microsoft, la cual la adquirió en junio de 2018 por 7.500 millones de dólares.
-![Web de Microsoft] (webdeMicrosoft.png)
+![Web de Microsoft](webdeMicrosoft.png)
 ## ¿Qué es Copilot?
 Copilot es es asistente de Inteligencia Artificial de Microsoft. Es un chat inteligente hecho para responder preguntas, generar imágenes, buscar información y ayudarte en tus proyectos. En **GitHub**, Copilot está integrado directamente, se llama GitHub Copilot, y es un asistente de IA especializado en programación y desarrollo de software. 
 * Empresas Tecnológicas
